@@ -1,0 +1,90 @@
+key_id;tournament_id;tournament_name;award_name;player_name;team_name;team_code;player_goals
+1;WC-1930;1930 FIFA Men's World Cup;Golden Ball;Jose Nasazzi;Uruguay;URY;
+2;WC-1930;1930 FIFA Men's World Cup;Golden Boot;Guillermo Stabile;Argentina;ARG;8
+3;WC-1930;1930 FIFA Men's World Cup;Golden Glove;Enrique Ballestrero;Uruguay;URY;
+4;WC-1934;1934 FIFA Men's World Cup;Golden Ball;Giuseppe Meazza;Italy;ITA;
+5;WC-1934;1934 FIFA Men's World Cup;Golden Boot;Oldrich Nejedly;Czechoslovakia;CSK;5
+6;WC-1934;1934 FIFA Men's World Cup;Golden Glove;Ricardo Zamora;Spain;ESP;
+7;WC-1938;1938 FIFA Men's World Cup;Golden Ball; Leonidas;Brazil;BRA;
+8;WC-1938;1938 FIFA Men's World Cup;Golden Boot; Leonidas;Brazil;BRA;7
+9;WC-1938;1938 FIFA Men's World Cup;Golden Glove;Frantisek Planicka;Czechoslovakia;CSK;
+10;WC-1950;1950 FIFA Men's World Cup;Golden Ball;Zizinho;Brazil;BRA;
+11;WC-1950;1950 FIFA Men's World Cup;Golden Boot; Ademir;Brazil;BRA;9
+12;WC-1950;1950 FIFA Men's World Cup;Golden Glove;Roque Maspoli;Uruguay;URY;
+13;WC-1954;1954 FIFA Men's World Cup;Golden Ball;Ferenc Puskas;Hungary;HUN;
+14;WC-1954;1954 FIFA Men's World Cup;Golden Boot;Sandor Kocsis;Hungary;HUN;11
+15;WC-1954;1954 FIFA Men's World Cup;Golden Glove;Gyula Grosics;Hungary;HUN;
+16;WC-1958;1958 FIFA Men's World Cup;Golden Ball;Didi;Brazil;BRA;
+17;WC-1958;1958 FIFA Men's World Cup;Golden Boot;Just Fontaine;France;FRA;13
+18;WC-1958;1958 FIFA Men's World Cup;Golden Glove;Harry Gregg;Northern Ireland;IRL;
+19;WC-1958;1958 FIFA Men's World Cup;Best Young Player; Pele;Brazil;BRA;
+20;WC-1962;1962 FIFA Men's World Cup;Golden Ball;Garrincha;Brazil;BRA;
+21;WC-1962;1962 FIFA Men's World Cup;Golden Boot;Florian Albert;Hungary;HUN;4
+22;WC-1962;1962 FIFA Men's World Cup;Golden Boot; Garrincha;Brazil;BRA;4
+23;WC-1962;1962 FIFA Men's World Cup;Golden Boot;Valentin Ivanov;Russia;RUS;4
+24;WC-1962;1962 FIFA Men's World Cup;Golden Boot;Drazan Jerkovic;Yugoslavia;YUG;4
+25;WC-1962;1962 FIFA Men's World Cup;Golden Boot;Leonel Sanchez;Chile;CHL;4
+26;WC-1962;1962 FIFA Men's World Cup;Golden Boot; Vava;Brazil;BRA;4
+27;WC-1962;1962 FIFA Men's World Cup;Golden Glove;Viliam Schrojf;Czechoslovakia;CSK;
+28;WC-1962;1962 FIFA Men's World Cup;Best Young Player;Florian Albert;Hungary;HUN;
+29;WC-1966;1966 FIFA Men's World Cup;Golden Ball;Bobby Charlton;England;ENG;
+30;WC-1966;1966 FIFA Men's World Cup;Golden Boot; Eusebio;Portugal;PRT;9
+31;WC-1966;1966 FIFA Men's World Cup;Golden Glove;Gordon Banks;England;ENG;
+32;WC-1966;1966 FIFA Men's World Cup;Best Young Player;Franz Beckenbauer;Germany;GER;
+33;WC-1970;1970 FIFA Men's World Cup;Golden Ball;Pele;Brazil;BRA;
+34;WC-1970;1970 FIFA Men's World Cup;Golden Boot;Gerd Müller;Germany;GER;10
+35;WC-1970;1970 FIFA Men's World Cup;Golden Glove;Ladislao Mazurkiewicz;Uruguay;URY;
+36;WC-1970;1970 FIFA Men's World Cup;Best Young Player;Teofilo Cubillas;Peru;PER;
+37;WC-1974;1974 FIFA Men's World Cup;Golden Ball;Johan Cruyff;Netherlands;NLD;
+38;WC-1974;1974 FIFA Men's World Cup;Golden Boot;Grzegorz Lato;Poland;POL;7
+39;WC-1974;1974 FIFA Men's World Cup;Golden Glove;Sepp Maier;Germany;GER;
+40;WC-1974;1974 FIFA Men's World Cup;Best Young Player;Wladyslaw Zmuda;Poland;POL;
+41;WC-1978;1978 FIFA Men's World Cup;Golden Ball;Mario Kempes;Argentina;ARG;
+42;WC-1978;1978 FIFA Men's World Cup;Golden Boot;Mario Kempes;Argentina;ARG;6
+43;WC-1978;1978 FIFA Men's World Cup;Golden Glove;Ubaldo Fillol;Argentina;ARG;
+44;WC-1978;1978 FIFA Men's World Cup;Best Young Player;Antonio Cabrini;Italy;ITA;
+45;WC-1982;1982 FIFA Men's World Cup;Golden Ball;Paolo Rossi;Italy;ITA;
+46;WC-1982;1982 FIFA Men's World Cup;Golden Boot;Paolo Rossi;Italy;ITA;6
+47;WC-1982;1982 FIFA Men's World Cup;Golden Glove;Dino Zoff;Italy;ITA;
+48;WC-1982;1982 FIFA Men's World Cup;Best Young Player;Manuel Amoros;France;FRA;
+49;WC-1986;1986 FIFA Men's World Cup;Golden Ball;Diego Maradona;Argentina;ARG;
+50;WC-1986;1986 FIFA Men's World Cup;Golden Boot;Gary Lineker;England;ENG;6
+51;WC-1986;1986 FIFA Men's World Cup;Golden GLove;Jean-Marie Pfaff;Belgium;BEL;
+52;WC-1986;1986 FIFA Men's World Cup;Best Young Player;Enzo Scifo;Belgium;BEL;
+53;WC-1990;1990 FIFA Men's World Cup;Golden Ball;Salvatore Schillaci;Italy;ITA;
+54;WC-1990;1990 FIFA Men's World Cup;Golden Boot;Salvatore Schillaci;Italy;ITA;6
+55;WC-1990;1990 FIFA Men's World Cup;Golden Glove;Sergio Goycochea;Argentina;ARG;
+56;WC-1990;1990 FIFA Men's World Cup;Best Young Player;Robert Prosinecki;Yugoslavia;YUG;
+57;WC-1994;1994 FIFA Men's World Cup;Golden Ball; Romario;Brazil;BRA;
+58;WC-1994;1994 FIFA Men's World Cup;Golden Boot;Oleg Salenko;Russia;RUS;6
+59;WC-1994;1994 FIFA Men's World Cup;Golden Boot;Hristo Stoichkov;Bulgaria;BGR;6
+60;WC-1994;1994 FIFA Men's World Cup;Golden Glove;Michel Preudhomme;Belgium;BEL;
+61;WC-1994;1994 FIFA Men's World Cup;Best Young Player;Marc Overmars;Netherlands;NLD;
+62;WC-1998;1998 FIFA Men's World Cup;Golden Ball; Ronaldo;Brazil;BRA;
+63;WC-1998;1998 FIFA Men's World Cup;Golden Boot;Davor suker;Croatia;CRO;6
+64;WC-1998;1998 FIFA Men's World Cup;Golden Glove;Fabien Barthez;France;FRA;
+65;WC-1998;1998 FIFA Men's World Cup;Best Young Player;Michael Owen;England;ENG;
+66;WC-2002;2002 FIFA Men's World Cup;Golden Ball;Oliver Kahn;Germany;GER;
+67;WC-2002;2002 FIFA Men's World Cup;Golden Boot; Ronaldo;Brazil;BRA;8
+68;WC-2002;2002 FIFA Men's World Cup;Golden Glove;Oliver Kahn;Germany;GER;
+69;WC-2002;2002 FIFA Men's World Cup;Best Young Player;Landon Donovan;United States;USA;
+70;WC-2006;2006 FIFA Men's World Cup;Golden Ball;Zinedine Zidane;France;FRA;
+71;WC-2006;2006 FIFA Men's World Cup;Golden Boot;Miroslav Klose;Germany;GER;5
+72;WC-2006;2006 FIFA Men's World Cup;Golden Glove;Gianluigi Buffon;Italy;ITA;
+73;WC-2006;2006 FIFA Men's World Cup;Best Young Player;Lukas Podolski;Germany;GER;
+74;WC-2010;2010 FIFA Men's World Cup;Golden Ball;Diego Forlan;Uruguay;URY;
+75;WC-2010;2010 FIFA Men's World Cup;Golden Boot;Thomas Müller;Germany;GER;5
+76;WC-2010;2010 FIFA Men's World Cup;Golden Glove;Iker Casillas;Spain;ESP;
+77;WC-2010;2010 FIFA Men's World Cup;Best Young Player;Thomas Müller;Germany;GER;
+78;WC-2014;2014 FIFA Men's World Cup;Golden Ball;Lionel Messi;Argentina;ARG;
+79;WC-2014;2014 FIFA Men's World Cup;Golden Boot;James Rodriguez;Colombia;COL;6
+80;WC-2014;2014 FIFA Men's World Cup;Golden Glove;Manuel Neuer;Germany;GER;
+81;WC-2014;2014 FIFA Men's World Cup;Best Young Player;Paul Pogba;France;FRA;
+82;WC-2018;2018 FIFA Men's World Cup;Golden Ball;Luka Modric;Croatia;CRO;
+83;WC-2018;2018 FIFA Men's World Cup;Golden Boot;Harry Kane;England;ENG;6
+84;WC-2018;2018 FIFA Men's World Cup;Golden Glove;Thibaut Courtois;Belgium;BEL;
+85;WC-2018;2018 FIFA Men's World Cup;Best Young Player;Kylian Mbappé;France;FRA;
+86;WC-2022;2022 FIFA Men's World Cup;Golden Ball;Lionel Messi;Argentina;ARG;
+87;WC-2022;2022 FIFA Men's World Cup;Golden Boot;Kylian Mbappé;France;FRA;8
+88;WC-2022;2022 FIFA Men's World Cup;Golden Glove;Emiliano Martinez;Argentina;ARG;
+89;WC-2022;2022 FIFA Men's World Cup;Best Young Player;Enzo Fernandez;Argentina;ARG;

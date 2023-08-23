@@ -1,0 +1,23 @@
+key_id;tournament_id;year;host_country;performance;winner;Runners-Up;Third;Fourth;GoalsScored;QualifiedTeams;MatchesPlayed; Attendance 
+1;WC-1930;1930;Uruguay;champions;Uruguay;Argentina;USA;Yugoslavia;70;13;18;434,000
+2;WC-1934;1934;Italy;champions;Italy;Czechoslovakia;Germany;Austria;70;16;17;395,000
+3;WC-1938;1938;France;quater-finals;Italy;Hungary;Brazil;Sweden;84;15;18;483,000
+4;WC-1950;1950;Brazil;runners-up;Uruguay;Brazil;Sweden;Spain;88;13;22;1,337,000
+5;WC-1954;1954;Switzerland;quarter-final;Germany;Hungary;Austria;Uruguay;140;16;26;943,000
+6;WC-1958;1958;Sweden;runners-up;Brazil;Sweden;France;Germany;126;16;35;868,000
+7;WC-1962;1962;Chile;third place;Brazil;Czechoslovakia;Chile;Yugoslavia;89;16;32;776,000
+8;WC-1966;1966;England;champions;England;Germany;Portugal;Soviet Union;89;16;32;1,614,677
+9;WC-1970;1970;Mexico;quater-finals;Brazil;Italy;Germany;Uruguay;95;16;32;1,673,975
+10;WC-1974;1974;Germany;champions;Germany;Netherlands;Poland;Brazil;97;16;38;1,774,022
+11;WC-1978;1978;Argentina;champions;Argentina;Netherlands;Brazil;Italy;102;16;38;1,610,215
+12;WC-1982;1982;Spain;second group stage;Italy;Germany;Poland;France;146;24;52;1,856,277
+13;WC-1986;1986;Mexico;quater-finals;Argentina;Germany;France;Belgium;132;24;52;2,407,431
+14;WC-1990;1990;Italy;third place;Germany;Argentina;Italy;England;115;24;52;2,527,348
+15;WC-1994;1994;United States;round of 16;Brazil;Italy;Sweden;Bulgaria;141;24;52;3,568,567
+16;WC-1998;1998;France;champions;France;Brazil;Croatia;Netherlands;171;32;64;2,859,234
+17;WC-2002;2002;Korea, Japan;round of 16;Brazil;Germany;Turkey;Korea Republic;161;32;64;2,724,604
+18;WC-2006;2006;Germany;third place;Italy;France;Germany;Portugal;147;32;64;3,367,000
+19;WC-2010;2010;South Africa;group stage;Spain;Netherlands;Germany;Uruguay;145;32;64;3,167,984
+20;WC-2014;2014;Brazil;fourth place;Germany;Argentina;Netherlands;Brazil;171;32;64;3,441,450
+21;WC-2018;2018;Russia;quater-finals;France;Croatia;Belgium;England;169;32;64;3,031,768
+22;WC-2022;2022;Qatar;group stage;Argentina;France;Croatia;Morocco;172;32;64;3,404,252
